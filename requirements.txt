@@ -1,5 +1,6 @@
-streamlit==1.25.0
-altair==4.2.2
-matplotlib
+streamlit
 pandas
 numpy
+matplotlib
+altair<5
+pillow>=10
